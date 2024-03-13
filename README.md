@@ -30,12 +30,4 @@ It is required to model the demand for shared bikes with the available independe
 ## Conclusions
 Significant variables to predict the demand for shared bikes are
 
-holiday
-temp
-hum
-windspeed
-Season
-months(January, July, September, November, December)
-Year (2019)
-Sunday
-weathersit( Light Snow, Mist + Cloudy)
+holiday, temp, hum, windspeed, Season, months(January, July, September, November, December), Year (2019), Sunday, weathersit( Light Snow, Mist + Cloudy)
