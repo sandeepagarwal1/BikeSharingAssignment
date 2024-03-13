@@ -26,6 +26,16 @@ It is required to model the demand for shared bikes with the available independe
 - jupyter notebook
 - Google Colab
 
+## 🚀 About Me
+I'm a AI/ML student at Upgrad
+
+
+## 🔗 Links
+https://github.com/sandeepagarwal1
+
+
+## 🛠 Skills
+Python, SQL
 
 ## Conclusions
 Significant variables to predict the demand for shared bikes are
